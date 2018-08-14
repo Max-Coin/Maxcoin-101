@@ -38,3 +38,65 @@ Coin Comparison
 The 3 Cryptocurrencies which cover all aspects and capabilities that would be needed to be filled for a digital currency are listed and compared below:
 
 ![picture](img/compare.png)
+
+How to Buy Maxcoin
+
+1. Yobit
+
+After you have created and verified your Yobit account, you will need to fund your account to buy Maxcoin.
+Head over to the ‘Wallets’ page, where you directly transfer your Bitcoins/Satoshis into your YoBit.Net account, a wide range of altcoins are also supported which you can deposit, sell for Bitcoin/Satoshi and then use to buy Maxcoin.
+
+![picture](img/yobit1.png)
+
+Direct USD transfer is also available by clicking the + beside USD and following the on screen instructions.
+After your account is funded head over to this link (https://yobit.net/en/trade/MAX/BTC) or search for MAX in the ‘Markets’ page.
+
+
+2. Cryptohub
+
+Cryptohub.online follows a similar process, once you have created and verified your account, you will need to fund your account to buy Maxcoin. Click Menu and navigate to ‘Profile/Balances'.
+
+![picture](img/cryptohub1.png)
+
+Once you find Bitcoin in the list (usually top) select ‘Deposit’ under operations, you will then be asked to generate a wallet address.
+
+![picture](img/cryptohub2.png)
+
+Please note the minimum deposit is listed at 0.00500000 BTC (correct at time of writing)
+After, head to ‘Marketplace’ and search for MAX from the dropdown list, or visit this link (https://cryptohub.online/market/MAX/)
+Once here, you will be able to see the price live and view/create an order.
+
+
+3. BoaExchange
+
+Create an account on https://www.boaexchange.com/ and fund your account in the wallets section. Maxcoin is available for purchase using either Bitcoin, Ethereum or Bitcoin Cash. Then head to the Exchange tab and search.
+
+![picture](img/boa1.png)
+
+
+Can I mine Maxcoin?
+
+Absolutely!
+For a full list of supported mining software, here
+For list of available pools, here
+For the latest information and updates,  as well as all the information mentioned here, please visit the official website at https://www.maxcoinproject.org
+
+
+How to Store Maxcoin – Wallets
+
+Maxcoin has over 4 years of blockchain to sync using the Maxcoin QT wallet which can normally take up to a week to sync due to a lack of volunteer developers who can help rebase to a single block head thread sync. If you would like to sync faster than normal consider the following options.
+Bootstrap = 3 days
+Torrent = 1 day ( Link only works if Torrent Client Installed )
+In Progress (light wallet & iOS & Android wallets. iOS Preview on YouTube ) = seconds
+If you are having trouble with your Maxcoin wallet, reach out to us on telegram.
+
+Desktop Wallets are currently available on Windows, MacOS and Linux, as well as a ‘paper wallet’ which is downloadable and runs by launching the html file.
+
+![picture](img/wallets.png)
+https://maxcoinproject.org/#wallets
+
+Call to Arms
+
+We would also like to invite anyone who wishes to bring coding knowledge to the project to join our community. As a community project we depend on people who are interested in the project to actively participate to enable its success.
+
+All input big or small is used to help shape the emerging culture that is arising within the community around the project, in line with our philosophy and organic growth structure.
