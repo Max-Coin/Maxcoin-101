@@ -93,6 +93,7 @@ If you are having trouble with your Maxcoin wallet, reach out to us on telegram
 Desktop Wallets are currently available on Windows, MacOS and Linux, as well as a ‘paper wallet’ which is downloadable and runs by launching the html file.
 
 ![picture](img/wallets.png)
+
 https://maxcoinproject.org/#wallets
 
 Call to Arms
