@@ -3,9 +3,9 @@
 Maxcoin: Open Source - Community Developed
 
 <p align="center">
-![picture](img/info1.png)
+<img src="img/info1">
 </p>
-
+![picture](img/info1.png)
 Maxcoin Mission
 
 Interdependence and decentralisation 
