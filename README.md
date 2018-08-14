@@ -2,7 +2,9 @@
 
 Maxcoin: Open Source - Community Developed
 
+<p align="center">
 ![picture](img/info1.png)
+</p>
 
 Maxcoin Mission
 
