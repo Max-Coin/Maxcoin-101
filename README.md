@@ -32,3 +32,9 @@ We believe that when a cryptocurrency is allowed to grow organically thru effect
 Why NOT in-organic growth? 
 
 Firstly, Maxcoin has no funds to support in-organic growth, just humans with a desire to contribute to the network. Secondly, the world of mergers, acquisitions, joint ventures and market share, things that are prevalent in the ICO/token industrial complex should not be a keystone of a cryptocurrency. It is accelerated growth based on a promise to the community, ultimately falling short of expectations, a house of cards. 
+
+Coin Comparison
+
+The 3 Cryptocurrencies which cover all aspects and capabilities that would be needed to be filled for a digital currency are listed and compared below:
+
+![picture](img/compare.png)
