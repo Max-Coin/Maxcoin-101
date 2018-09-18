@@ -9,7 +9,7 @@ Maxcoin Mission
 Interdependence and decentralisation 
 
 We aim to unleash the full potential of a limited supply, decentralised, sustainable, quantum resistant digital currency.
-Solar miners & wind turbine nodes, smart contract governance voting system, Decentralised exchange integration, free blockchain courseware material and educational partnerships along with a growing list of merchants.
+Solar miners & wind turbine nodes, smart contract governance voting system, Decentralised exchange integration, free blockchain courseware material and educational partnerships along with a growing list of merchants and Crypto ATM integration.
 
 
 Maxcoin in the Community
